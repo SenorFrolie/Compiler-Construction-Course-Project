@@ -1,0 +1,10 @@
+1.     Danny Borja, Robert Bonham, CS 4318
+
+2.     Every day.
+
+3/4/5. The first step we took in implementing this parser was by creating a skeleton that adhered to the mC Grammar
+       rules from pages 9 and 10 of the Assgn2 Writeup handout.  Robert initally started the assignment by adding
+       neccessary tokens, then I added the trees to parser.y, as well as additional code to tree.c and tree.h.  
+       Robert then took care of the functions from strtab.c, then debugged/added necessary code to run the program.
+       In addition to using the provided examples to test the program, various random examples were used to "play
+       with the program".  For example, "int main() {1+2;}" to test the operator or "int main() {1/2;}".  
