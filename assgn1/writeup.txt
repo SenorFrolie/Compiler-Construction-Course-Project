@@ -1,0 +1,12 @@
+. Danny Borja, Robert Bonham, CS 4318
+
+2. How often do you plan to work on the project?
+   Every day.
+   What software platform do you plan to use for collaboration?
+   VS Code to push/pull from Enterprise, GroupMe for chat, Discord for talk.
+
+3. Provide two examples of how you will test the correctness of your code.  These examples
+   should be different from the ones provided in this document. 
+   One example would be to create a text file to test all the keywords in sequential order.
+   Another example would be to duplicate the aforementioned approach, except this time
+   with operators, punctuation, etc. 
