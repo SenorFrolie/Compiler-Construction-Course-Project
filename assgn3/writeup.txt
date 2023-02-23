@@ -1,0 +1,13 @@
+1.     Danny Borja, Robert Bonham, CS 4318
+
+2.     Met once or twice after class during the weekday, then met 1 on saturdays
+        given we were able to meet if our schedules would allow it. 
+
+3.      Both group members took part in working on each file adding little by little.
+        In most cases we would meet on Discord or Zoom to screenshare what we had accomplish and 
+        code together to come up with a solution. That situation happened more often than expected.
+        Started with Robert intially working on the parser, then Danny with the strtab files. Then as 
+        the turn in date got closer we met more regular to work together to finish the parser.
+
+4.      One way to quick test all the code was to create a bash files testing out each of the require 
+        error handling. And the ways to test the correctness of our code can be found cases folder.
